@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![RAG](https://img.shields.io/badge/AI-RAG-purple)
 # 🚀 DocuMind AI  
 ### LLM-Powered Intelligent Document Dashboard
 
@@ -80,4 +84,204 @@ Structured Insights & Dashboard Visualization
 ---
 
 ## 📂 Project Structure
+documind-ai/
+│
+├── backend/
+│ ├── api/
+│ ├── services/
+│ ├── pipelines/
+│ ├── models/
+│ ├── database/
+│ └── main.py
+│
+├── frontend/
+│
+└── README.md
+
+---
+
+## ⚙️ Features
+
+✔ Upload and process multiple document types  
+✔ OCR support for scanned documents  
+✔ Intelligent text extraction  
+✔ Semantic search using vector embeddings  
+✔ RAG-based document Q&A  
+✔ Executive and section-wise summaries  
+✔ Analytics and visualization  
+✔ Risk and compliance detection  
+✔ Action item extraction  
+✔ Multi-document comparison  
+
+---
+
+## 🎯 Key Concepts Implemented
+
+- Retrieval-Augmented Generation (RAG)
+- Vector Similarity Search
+- Embedding-based Semantic Retrieval
+- NLP Entity Extraction
+- Large Language Model Prompt Engineering
+- Full-stack integration
+
+---
+
+## 🚧 Current Development Stage
+
+- [x] Backend setup
+- [x] File upload API
+- [x] PDF & OCR text extraction
+- [ ] Chunking & embeddings
+- [ ] Vector database integration
+- [ ] RAG pipeline
+- [ ] Dashboard UI
+- [ ] Deployment
+
+---
+
+## 📈 Future Scope
+
+- Multi-language document support
+- Domain-specific fine-tuning
+- Role-based access control
+- Cloud deployment & scaling
+- Multi-document reasoning
+- Real-time collaboration
+
+---
+
+## 👨‍💻 Author
+
+Developed as a Final-Year AI Engineering Project.
+
+---
+
+## 📜 License
+
+MIT License
+
+---
+
+## ⚙️ Features
+
+✔ Upload and process multiple document types  
+✔ OCR support for scanned documents  
+✔ Intelligent text extraction  
+✔ Semantic search using vector embeddings  
+✔ RAG-based document Q&A  
+✔ Executive and section-wise summaries  
+✔ Analytics and visualization  
+✔ Risk and compliance detection  
+✔ Action item extraction  
+✔ Multi-document comparison  
+
+---
+
+## 🎯 Key Concepts Implemented
+
+- Retrieval-Augmented Generation (RAG)
+- Vector Similarity Search
+- Embedding-based Semantic Retrieval
+- NLP Entity Extraction
+- Large Language Model Prompt Engineering
+- Full-stack integration
+
+---
+
+## 🚧 Current Development Stage
+
+- [x] Backend setup
+- [x] File upload API
+- [x] PDF & OCR text extraction
+- [ ] Chunking & embeddings
+- [ ] Vector database integration
+- [ ] RAG pipeline
+- [ ] Dashboard UI
+- [ ] Deployment
+
+---
+
+## 📈 Future Scope
+
+- Multi-language document support
+- Domain-specific fine-tuning
+- Role-based access control
+- Cloud deployment & scaling
+- Multi-document reasoning
+- Real-time collaboration
+
+---
+
+## 👨‍💻 Author
+
+Developed as a Final-Year AI Engineering Project.
+
+---
+
+## 📜 License
+
+MIT License
+
+---
+
+## ⚙️ Features
+
+✔ Upload and process multiple document types  
+✔ OCR support for scanned documents  
+✔ Intelligent text extraction  
+✔ Semantic search using vector embeddings  
+✔ RAG-based document Q&A  
+✔ Executive and section-wise summaries  
+✔ Analytics and visualization  
+✔ Risk and compliance detection  
+✔ Action item extraction  
+✔ Multi-document comparison  
+
+---
+
+## 🎯 Key Concepts Implemented
+
+- Retrieval-Augmented Generation (RAG)
+- Vector Similarity Search
+- Embedding-based Semantic Retrieval
+- NLP Entity Extraction
+- Large Language Model Prompt Engineering
+- Full-stack integration
+
+---
+
+## 🚧 Current Development Stage
+
+- [x] Backend setup
+- [x] File upload API
+- [x] PDF & OCR text extraction
+- [ ] Chunking & embeddings
+- [ ] Vector database integration
+- [ ] RAG pipeline
+- [ ] Dashboard UI
+- [ ] Deployment
+
+---
+
+## 📈 Future Scope
+
+- Multi-language document support
+- Domain-specific fine-tuning
+- Role-based access control
+- Cloud deployment & scaling
+- Multi-document reasoning
+- Real-time collaboration
+
+---
+
+## 👨‍💻 Author
+
+Developed as a Final-Year AI Engineering Project.
+
+---
+
+## 📜 License
+
+MIT License
+
 
